@@ -19,9 +19,6 @@ create table `user'(
   ('Subashree','subashree@gmail.com','4400');
   
   
-  
-  
-  
 alter table `user`
   add primary key (`email`);
 commit;
